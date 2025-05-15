@@ -1,0 +1,49 @@
+*{
+    align-items: center;
+}
+.email , .pwd{
+    display:flex;
+    flex:2;
+    padding:10px;
+    width:300px;
+}
+.esection{
+    margin:10px 370px;
+}
+.psection{
+    margin:10px 370px;
+}
+button{
+    background-color:rgb(39, 100, 234);
+    color:white;
+    margin: 10px 370px;
+    width:18.8em;
+}
+h4{
+    display:flex;
+    flex:1;
+    color:rgb(39, 100, 234);
+    margin-left: 370px;
+    margin-right: 400px;
+}
+label{
+    display:flex;
+    flex:2;
+    flex-direction: row;
+    margin-bottom: 10px;
+}
+h2{
+    display: flex;
+    flex: 1;
+    margin:10px 423px;
+}
+
+.section{
+    display: inline-flex;
+    margin-top: 12px;
+    flex:1;
+    margin-left: 370px;;
+}
+.remember{
+    margin-top: 10px;;
+}
